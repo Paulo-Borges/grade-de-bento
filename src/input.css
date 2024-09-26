@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "DMSans-Regular";
+    src: url("/fonts/static/DMSans-Regular.ttf") format("opentype");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "DMSans-Medium";
+    src: url("/fonts/static/DMSans-Medium.ttf") format("opentype");
+    font-style: normal;
+    font-display: swap;
+}
